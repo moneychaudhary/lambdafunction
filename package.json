@@ -1,0 +1,14 @@
+{
+  "name": "pulselabs-lambda",
+  "version": "0.0.1",
+  "description": "demo skill using pulselabs recorder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pulselabs",
+  "license": "ISC",
+  "dependencies": {
+    "random-name-sdk": "0.0.28"
+  }
+}
